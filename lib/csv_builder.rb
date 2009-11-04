@@ -1,4 +1,4 @@
-require 'fastercsv'
+require 'csv_implementation'
 require 'iconv'
 
 module ActionView # :nodoc:
